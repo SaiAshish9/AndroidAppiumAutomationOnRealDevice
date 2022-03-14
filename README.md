@@ -1,6 +1,18 @@
 ```
+sudo npm i -g appium-doctor
+```
+
+```
+appium-doctor --android
+```
+
+```
 https://appium.io/docs/en/writing-running-appium/caps/
 https://appium.io/docs/en/commands/session/create/
+```
+
+```
+appium server gui => edit configurations ( JAVA_HOME and ANDROID_HOME )
 ```
 
 ```
